@@ -14,7 +14,7 @@ Model shows how new price will affect the total number of complaints and, as a r
 Files:
 - KSE_AMCU_Complaints_price_19_11.ppt - presentation of the results (in Ukrainian)
   
-- bi_downloads - folder with all the raw data used in the model + print screens that show what filters I used in the ProZorro BI to create each      file
+- bi_downloads - folder with print screens that show what filters I used in the ProZorro BI to create each file with data used in the model
   
 - parameters -  folder with data (transformed from the raw data) and code used for calculating initial parameters of the model
   
