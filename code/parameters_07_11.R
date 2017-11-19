@@ -602,7 +602,7 @@ stdv <- data.frame(value=c(0.01, 0.02, 0.03, 0.04, 0.05))
 
 
 # change working directory
-setwd("C:/Users/V. Zakaliuzhnyi/Documents/KSE/Complaints/Calculations/results")
+setwd("C:/Users/Oleksa/Documents/KSE/Complaints/Calculations/results")
 
 # save results
 write.csv2(complaints, "complaints.csv")
@@ -613,7 +613,7 @@ write.csv2(description, "result_description.csv")
 write.csv2(stdv, "stdv.csv")
 
 # return working directory
-setwd("C:/Users/V. Zakaliuzhnyi/Documents/KSE/Complaints/Calculations/parameters")
+setwd("C:/Users/Oleksa/Documents/KSE/Complaints/Calculations/parameters")
 
 
 
