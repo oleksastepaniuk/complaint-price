@@ -16,8 +16,10 @@ Files:
   
 - bi_downloads - folder with print screens that show what filters I used in the ProZorro BI to create each file with data used in the model
   
-- parameters -  folder with data (transformed from the raw data) and code used for calculating initial parameters of the model
-  
-- modeling - folder with data and code used for modeling the existing mechanism (with fixed price) and a new mechanism (price as % of the reserve price)
+- code -  folder with the R code:
+    - parameters_07_11 - calculating initial parameters of the model
+    - prepare_dataset - creating a dataset used in the simulation
+    - simulation_current - simulating current mechanism
+    - simulation_new - simulating new mechanism
   
 - result - folder with the results of executing code in parameters and modeling folders
