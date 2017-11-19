@@ -243,13 +243,13 @@ rm(sim_cond_goods, sim_cond_works, sim_dec_goods, sim_dec_works)
 
 
 # change working directory
-setwd("C:/Users/V. Zakaliuzhnyi/Documents/KSE/Complaints/Calculations/results")
+setwd("C:/Users/Oleksa/Documents/KSE/Complaints/Calculations/results")
 
 # save results
 write.csv2(sim_avg_new, "result_sim_avg_new.csv")
 
 # return working directory
-setwd("C:/Users/V. Zakaliuzhnyi/Documents/KSE/Complaints/Calculations/modeling")
+setwd("C:/Users/Oleksa/Documents/KSE/Complaints/Calculations/modeling")
 
 
 
