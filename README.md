@@ -23,3 +23,6 @@ Files:
     - simulation_new - simulating new mechanism
   
 - result - folder with the results of executing code in parameters and modeling folders
+
+
+Data used in modeling can be downloaded here: https://drive.google.com/drive/folders/1XVrx6Zo25vXIqDwZT_72_0KIwTxZ_yuE?usp=sharing
